@@ -90,6 +90,7 @@ function App() {
 
   return (
     <div className="clock">
+      <h1>25 + 5 Clock</h1>
       <div className="setters">
         <div className="break">
           <h4 id="break-label">Break Length</h4>

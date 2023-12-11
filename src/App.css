@@ -44,6 +44,6 @@ span {
   margin-top: 20px;
 }
 
-.break:hover,.session:hover {
+.break:hover,.session:hover,h1 {
 color: #219447;
 }
